@@ -1,1 +1,1 @@
-# project-2-amanda
+# project-2
